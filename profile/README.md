@@ -1,3 +1,5 @@
+![leaseweb_cover](https://github.com/Leaseweb/.github/assets/20487980/9e90c60f-fb14-4a5a-8630-cf336bb58607)
+
 Welcome to the [Leaseweb](https://www.leaseweb.com/) Open Source integrations organization.
 
 ## Documentation 📚
