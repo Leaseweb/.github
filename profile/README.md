@@ -9,6 +9,7 @@ If you are just starting with Leaseweb, or looking for specific information, her
 - [Leaseweb website](https://leaseweb.com/)
 - [API documentations](https://developer.leaseweb.com/)
 - [API standards](https://github.com/LeaseWeb/api-standards)
+- [API definitions](https://github.com/LeaseWeb/api-definitions)
 
 ## Contribute ❤️
 
